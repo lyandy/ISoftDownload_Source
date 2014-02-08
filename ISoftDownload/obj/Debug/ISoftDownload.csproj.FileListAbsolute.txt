@@ -1,0 +1,46 @@
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\ISoftDownload.exe
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\ISoftDownload.pdb
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\ButtonEx.dll
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\SkinForm.dll
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\obj\Debug\ISoftDownload.Properties.Resources.resources
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\obj\Debug\ISoftDownload.csproj.GenerateResource.Cache
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\obj\Debug\ISoftDownload.exe
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\obj\Debug\ISoftDownload.pdb
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\ProgessBarEx.dll
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\obj\Debug\ISoftDownload.DownForm.resources
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\obj\Debug\ISoftDownload.SetForm.resources
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\CustomMessageBox.dll
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\CustomMessageBox.pdb
+C:\Users\Andy\AppData\Local\Temporary Projects\ISoftDownload\bin\Debug\CustomMessageBox.xml
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.exe
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.pdb
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ISoftDownload.exe
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ISoftDownload.pdb
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ButtonEx.dll
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ProgessBarEx.dll
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\SkinForm.dll
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\CustomMessageBox.pdb
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\CustomMessageBox.xml
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.DownForm.resources
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.Properties.Resources.resources
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.SetForm.resources
+C:\Users\Andy\Desktop\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.csproj.GenerateResource.Cache
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.exe
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.pdb
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ISoftDownload.exe
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ISoftDownload.pdb
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ButtonEx.dll
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\DevComponents.DotNetBar2.dll
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\ProgessBarEx.dll
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\SkinForm.dll
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\CustomMessageBox.pdb
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\bin\Debug\CustomMessageBox.xml
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ResolveAssemblyReference.cache
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.DownForm.resources
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.Properties.Resources.resources
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.SetForm.resources
+F:\我的开发\开发\作品开发\系统软件开发\ISoft专用下载器\ISoftDownload\ISoftDownload\obj\Debug\ISoftDownload.csproj.GenerateResource.Cache

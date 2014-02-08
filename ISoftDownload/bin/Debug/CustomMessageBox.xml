@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomMessageBox</name>
+    </assembly>
+    <members>
+        <member name="T:CustomMessageBox.MsgBox">
+            <summary>
+            自定义每次使用每次重新创建的消息框
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.MsgBox.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:CustomMessageBox.MsgBox.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:CustomMessageBox.MsgBox.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:CustomMessageBox.CustomMessageBox">
+            <summary>
+            Custom MessageBox Wrapper
+            </summary>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.Windows.Forms.Form,System.String,System.String,CustomMessageBox.CustomMessageBox.MsgBoxButtons,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载0.0: 显示自定义的消息框, 指定owner
+            </summary>
+            <param name="owner">宿主窗体</param>
+            <param name="msg">消息文本</param>
+            <param name="caption">消息标题</param>
+            <param name="btns">要在界面上显示的按钮组合</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.String,System.String,CustomMessageBox.CustomMessageBox.MsgBoxButtons,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载0.1: 显示自定义的消息框, 不指定owner
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="caption">消息标题</param>
+            <param name="btns">要在界面上显示的按钮组合</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.Windows.Forms.Form,System.String,System.String,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载1.1: 使用默认的OK按钮, 指定owner
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="caption">消息标题</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.String,System.String,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载1.2: 使用默认的OK按钮
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="caption">消息标题</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.Windows.Forms.Form,System.String,CustomMessageBox.CustomMessageBox.MsgBoxButtons,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载2.1: 使用默认的消息标题, 指定owner
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="btns">要在界面上显示的按钮组合</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.String,CustomMessageBox.CustomMessageBox.MsgBoxButtons,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载2.2: 使用默认的消息标题
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="btns">要在界面上显示的按钮组合</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.Windows.Forms.Form,System.String,System.String)">
+            <summary>
+            重载3.1: 使用默认的OK按钮, 默认的图标, 指定owner
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="caption">消息标题</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.String,System.String)">
+            <summary>
+            重载3.2: 使用默认的OK按钮, 默认的图标
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="caption">消息标题</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.Windows.Forms.Form,System.String,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载4.1: 使用默认的OK按钮, 默认的消息标题, 指定owner
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.String,CustomMessageBox.CustomMessageBox.MsgBoxIcons)">
+            <summary>
+            重载4.2: 使用默认的OK按钮, 默认的消息标题
+            </summary>
+            <param name="msg">消息文本</param>
+            <param name="icon">要在界面上显示的图标</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.Windows.Forms.Form,System.String,System.Object[])">
+            <summary>
+            重载5.1: 使用默认的OK按钮, 默认的消息标题, 默认的图标, 指定owner
+            </summary>
+            <param name="fmt">格式串或字符串</param>
+            <param name="args">参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomMessageBox.CustomMessageBox.Show(System.String,System.Object[])">
+            <summary>
+            重载5.2: 使用默认的OK按钮, 默认的消息标题, 默认的图标
+            </summary>
+            <param name="fmt">格式串或字符串</param>
+            <param name="args">参数</param>
+            <returns></returns>
+        </member>
+        <member name="T:CustomMessageBox.CustomMessageBox.MsgBoxButtons">
+            <summary>
+            指定消息框上出现哪些按钮的组合
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxButtons.OK">
+            <summary>
+            OK按钮
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxButtons.OKCancel">
+            <summary>
+            OK按钮以及Cancel按钮
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxButtons.OKNoCancel">
+            <summary>
+            OK按钮, No按钮, 以及Cancel按钮
+            </summary>
+        </member>
+        <member name="T:CustomMessageBox.CustomMessageBox.MsgBoxIcons">
+            <summary>
+            指定消息框上出现的图标
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxIcons.Good">
+            <summary>
+            成功标志
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxIcons.Error">
+            <summary>
+            错误标志
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxIcons.Info">
+            <summary>
+            提示性标志
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxIcons.Question">
+            <summary>
+            询问标志
+            </summary>
+        </member>
+        <member name="F:CustomMessageBox.CustomMessageBox.MsgBoxIcons.None">
+            <summary>
+            不要出现任何标志
+            </summary>
+        </member>
+    </members>
+</doc>
